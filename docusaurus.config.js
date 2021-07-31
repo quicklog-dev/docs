@@ -60,12 +60,8 @@ module.exports = {
           ],
         },
         {
-          title: 'More',
+          title: 'Github',
           items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
             {
               label: 'GitHub',
               href: 'https://github.com/quicklog-dev',
