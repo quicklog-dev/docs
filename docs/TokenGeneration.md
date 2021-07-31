@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Token Generation
+# Token Generation for agent
 
 In order to use quicklog agent, you must have agent token which can be created using the dashboard.
 
