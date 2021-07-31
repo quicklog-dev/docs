@@ -60,7 +60,7 @@ module.exports = {
           ],
         },
         {
-          title: 'Github',
+          title: 'More',
           items: [
             {
               label: 'GitHub',
