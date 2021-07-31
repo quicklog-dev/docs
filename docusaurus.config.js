@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Quicklog',
   tagline: 'Quicklog helps dev to debug fast',
-  url: 'https://quicklog.dev',
+  url: 'https://infallible-goodall-481cff.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
