@@ -12,7 +12,6 @@ module.exports = {
   favicon: 'img/favicon.png',
   organizationName: 'quicklog-dev', // Usually your GitHub org/user name.
   projectName: 'Quicklog', // Usually your repo name.
-  plugins: ['@docusaurus/plugin-google-analytics'],
   themeConfig: {
     googleAnalytics: {
       trackingID: 'UA-203782793-2',
