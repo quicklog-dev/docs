@@ -37,6 +37,11 @@ module.exports = {
           label: 'GitHub',
           position: 'right',
         },
+        {
+          href:"https://app.quicklog.dev",
+          label:"Signup",
+          position:"left",
+        }
       ],
     },
     footer: {
