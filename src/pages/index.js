@@ -16,7 +16,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
+            to="https://marketplace.visualstudio.com/items?itemName=quicklog.quicklog">
             View on Marketplace 🏭
           </Link>
         </div>
