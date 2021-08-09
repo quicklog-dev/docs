@@ -26,7 +26,7 @@ $ quicklog agent
 ```
 
 
-***For quicklog agent installation you can check [installation docs](./installation)***
+***For quicklog agent installation you can check [installation docs](./AttachingAgent)***
 
 ### Step 3
 
