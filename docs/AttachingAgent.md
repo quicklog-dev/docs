@@ -16,7 +16,7 @@ A sample agent config looks like this:
 ```yaml
 remote_manager_addr: "app.quicklog.dev:4003" ## manager addr. 
 binary_path: "./example-api-service" ## path of go binary
-agent_token: "206b0626c5839c105db725b915ebc1fc8789bb7b" ## agent token
+agent_token: "******" ## agent token
 args: ["--service", "core"] ## args that needs to passed to the binary
 ```
 *** For quicklog token generation check [Token Generation Docs](./TokenGeneration)*** 

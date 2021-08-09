@@ -17,7 +17,7 @@ Login to your account and create agent by clicking Add Agent button on the right
 ### Step 2
 Enter the agent name and build path to create the agent.
 
-***Note: build path of the program is path of the program where is been built. for eg: if you built the go pragram go build . in /home/poonai/ExampleService then your build path /home/poonai/ExampleService***
+***Note: build path of the program is path of the program where is been built. for eg: if you built the go program by running go build . in /home/poonai/ExampleService then your build path /home/poonai/ExampleService***
 
 ![Agent popup](../assets/add-agent-popup.png)
 

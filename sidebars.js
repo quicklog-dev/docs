@@ -17,6 +17,6 @@ module.exports = {
   docsSidebar: ['intro',{
     type: 'category',
     label: 'Setting up agent',
-    items:['TokenGeneration', 'AttachingAgent']
+    items:['TokenGeneration', 'AttachingAgent', 'K8S_deployment']
   }, 'UsingQuicklog', 'SelfHostedManager']
 };

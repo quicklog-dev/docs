@@ -15,8 +15,12 @@ Configure vs code to connect to the agent by editing debugger launch config`.vsc
             "type": "quicklog", // debugger extention type.
             "request": "launch",
             "name": "example quicklog", // name of the config
-            "token": "206b0626c5839c105db725b915ebc1fc8789bb7b", // agent token
-            "clientWorkspacePath": "/home/poonai/Core" // pwd of the workspace
+            "token": "*******", // agent token
+            "clientWorkspacePath": "/home/poonai/Core", // pwd of the workspace
+            "managerAddr": "manager.quicklog.dev", // manager addr
+            "managerPort": 4003, // manager port
+            "tls": true, // enable tls for encrypted connection
+            "insecure": true // accept untrusted certificates
         },
     ]
 }
