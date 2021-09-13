@@ -109,6 +109,9 @@ module.exports = {
     ],
   ],
   scripts:[
-    "/leedfeed.js"
+    {
+      src:"/leedfeed.js",
+      async: true
+    }
   ]
 };
