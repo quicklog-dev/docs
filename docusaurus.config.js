@@ -108,4 +108,7 @@ module.exports = {
       },
     ],
   ],
+  scripts:[
+    "/leedfeed.js"
+  ]
 };
