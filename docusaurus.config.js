@@ -4,7 +4,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Quicklog',
-  tagline: 'Quicklog helps dev to debug fast',
+  tagline: 'Add logs to production or stagging without changing code or pushing to docker💪',
   url: 'https://infallible-goodall-481cff.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',

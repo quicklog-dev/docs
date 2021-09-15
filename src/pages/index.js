@@ -15,12 +15,17 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
+        <p className="hero__subtitle"> Boost developer productivity 💻</p>
+        <Link
             className="button button--secondary button--lg"
             to="https://marketplace.visualstudio.com/items?itemName=quicklog.quicklog">
             View on Marketplace 🏭
           </Link>
+          <br></br>
+          <br></br>
+        <img className="demo_container" src="/demo.gif"></img>
+        <div className={styles.buttons}>
+          
         </div>
       </div>
     </header>
@@ -32,7 +37,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Quicklog helps developers to debug fast">
+      description="Add logs to production or stagging without changing code or pushing to docker💪| Boost developer productivity 💻">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
