@@ -112,6 +112,10 @@ module.exports = {
     {
       src:"/leedfeed.js",
       async: true
+    },
+    {
+      src:"/crisp.js",
+      async: true
     }
   ]
 };
