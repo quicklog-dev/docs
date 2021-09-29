@@ -38,6 +38,11 @@ module.exports = {
           position: 'right',
         },
         {
+          href:"/blog",
+          label:"Blogs",
+          position:"left",
+        },
+        {
           href:"https://app.quicklog.dev",
           label:"Signup",
           position:"left",
